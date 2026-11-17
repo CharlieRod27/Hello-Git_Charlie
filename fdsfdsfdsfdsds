@@ -1,0 +1,562 @@
+[33mcommit 4c91fdcd78b065442de5f75a0a5ce5ce916e670e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 073988c9 52570c56
+Author: Brais Moure <mouredev@gmail.com>
+Date:   Tue Nov 17 08:31:32 2026 +0100
+
+    Merge pull request #5354 from eg3972840-debug/main
+    
+    Mi primer fork
+
+[33mcommit 52570c5697af35c57453b87a70ae331b96da75f0[m
+Merge: 9103c700 073988c9
+Author: Brais Moure <mouredev@gmail.com>
+Date:   Tue Nov 17 08:31:20 2026 +0100
+
+    Merge branch 'main' into main
+
+[33mcommit 073988c95697aba1fbc0b475aba66399fd3140eb[m
+Author: mouredev <mouredev@gmail.com>
+Date:   Tue Nov 17 06:01:16 2026 +0100
+
+    Merge PR #5353 manual: elhdrond
+
+[33mcommit 1d0d10c6c0a7569325c8e706b83fab166a3d4414[m
+Author: mouredev <mouredev@gmail.com>
+Date:   Tue Nov 17 06:00:57 2026 +0100
+
+    Merge PR #5356 manual: matiasedp-cmd
+
+[33mcommit 542261d1f345429792b7bb7c01c9a275dc6d8fc5[m
+Merge: 9e6b7ecf 93443928
+Author: Brais Moure <mouredev@gmail.com>
+Date:   Tue Nov 17 06:00:25 2026 +0100
+
+    Merge pull request #5357 from larabraham001/main
+    
+    Add larabraham001 to contributors list
+
+[33mcommit 93443928883e6465713b7fb5fce8e59903a2cfaf[m
+Author: Abraham Lara <larabraham001@icloud.com>
+Date:   Mon Nov 16 18:22:06 2026 -0600
+
+    Add larabraham001 to contributors list
+
+[33mcommit 9103c7008f55b7ab3193a873f5c325f97ec2e5f7[m
+Author: FABIAN GONZALEZ <eg3972840@gmail.com>
+Date:   Mon Nov 16 17:11:54 2026 +0100
+
+    mi primer fork
+
+[33mcommit 9e6b7ecfd749a1027dcd470a25098337adda0b6a[m
+Author: mouredev <mouredev@gmail.com>
+Date:   Mon Nov 16 06:00:54 2026 +0100
+
+    Merge PR #5351 manual: Gilberto-2003
+
+[33mcommit 501011b28c1d04d95714476e27bcf604503e9a4b[m
+Merge: a6199b49 4146ad06
+Author: Brais Moure <mouredev@gmail.com>
+Date:   Mon Nov 16 06:00:23 2026 +0100
+
+    Merge pull request #5352 from Ruksxo/main
+    
+    Añadi mi nombre Ruksxo como practica
+
+[33mcommit 4146ad06fdf855f94adb68745e880c007b8d971d[m
+Author: Ruksxo <U24229810@utp.edu.pe>
+Date:   Sun Nov 15 12:28:55 2026 -0500
+
+    Añadi mi nombre Ruksxo como practica
+
+[33mcommit a6199b49f4f4ca2481c4a008e53945eb79100369[m
+Merge: c25240b4 4e742f13
+Author: Brais Moure <mouredev@gmail.com>
+Date:   Fri Nov 13 06:00:19 2026 +0100
+
+    Merge pull request #5349 from smmu94/main
+    
+    Agrego mi nombre de usuario a la lista
+
+[33mcommit 4e742f1331ba27d5036c16eb9f750a935740b4bc[m
+Author: smmu94 <stephaniemmu@gmail.com>
+Date:   Thu Nov 12 09:10:45 2026 +0100
+
+    agrego mi nombre de usuario a la lista
+
+[33mcommit c25240b4d8d6d3a7e6648ed5a621cb014d724fdd[m
+Merge: 80ee919e 40ebb5a3
+Author: Brais Moure <mouredev@gmail.com>
+Date:   Thu Nov 12 07:55:16 2026 +0100
+
+    Merge pull request #5346 from jair121996-lgtm/main
+    
+    agregando mi usuario
+
+[33mcommit 40ebb5a3698aa45c1d7a95eb896ca454ccd4e64c[m
+Merge: a58dc21a 80ee919e
+Author: Brais Moure <mouredev@gmail.com>
+Date:   Thu Nov 12 07:54:57 2026 +0100
+
+    Merge branch 'main' into main
+
+[33mcommit 80ee919e192993f542b712c3344b39cc452678f8[m
+Author: mouredev <mouredev@gmail.com>
+Date:   Thu Nov 12 06:01:21 2026 +0100
+
+    Merge PR #5345 manual: ironbonx
+
+[33mcommit 3416d9cf5e5643e04f4bde3c765e554387da6a98[m
+Author: mouredev <mouredev@gmail.com>
+Date:   Thu Nov 12 06:00:53 2026 +0100
+
+    Merge PR #5347 manual: Robaflores
+
+[33mcommit 70467b9d216cecd0e394a2694f8104413e6042c4[m
+Merge: 7fa816e4 a74869eb
+Author: Brais Moure <mouredev@gmail.com>
+Date:   Thu Nov 12 06:00:26 2026 +0100
+
+    Merge pull request #5348 from alejandromartinez1150597/main
+    
+    Se añade nombre de usuario para el ejercicio práctico
+
+[33mcommit a74869ebfb52b3264a1117077c282ef3af06c3b5[m
+Author: Alejandro Martinez <alejandromartinez1150597@correo.itm.edu.co>
+Date:   Wed Nov 11 22:02:54 2026 -0500
+
+    Se añade nombre de usuario para el ejercicio práctico
+
+[33mcommit a58dc21a5790f565e02315a0521a27d35c26a726[m
+Author: JairChacaliaza <jair121996@gmail.com>
+Date:   Wed Nov 11 06:12:40 2026 -0500
+
+    agregando mi usuario
+
+[33mcommit 7fa816e4ea693466e007dda32289e295f2b530d2[m
+Merge: 89b22eac 4d7291ea
+Author: Brais Moure <mouredev@gmail.com>
+Date:   Wed Nov 11 06:00:18 2026 +0100
+
+    Merge pull request #5344 from SERIVAN19/main
+    
+    He añadido mi usuario de GitHub
+
+[33mcommit 4d7291ea1998952ed53028cdd66f52b56693d0a2[m
+Author: servan <sbuenoardila@gmail.com>
+Date:   Tue Nov 10 20:07:04 2026 -0500
+
+    he añadido mi usuario de github
+
+[33mcommit 89b22eac5354489a8b0c7019b2b791f6834440bd[m
+Merge: 9bee063e b2d9c186
+Author: Brais Moure <mouredev@gmail.com>
+Date:   Tue Nov 10 06:00:33 2026 +0100
+
+    Merge pull request #5342 from JaviG6621/nuevoNombre
+    
+    Nombre añadido
+
+[33mcommit b2d9c186954fb1ae86dbe8878fb1c61291c4e386[m
+Author: JaviG6621 <javierguadi88@gmail.com>
+Date:   Mon Nov 9 10:15:17 2026 +0000
+
+    He añadido mi nombre
+
+[33mcommit 9bee063efc982d038eeecef1b84d17ce876f48df[m
+Merge: 94a19daf 2ab0c218
+Author: Brais Moure <mouredev@gmail.com>
+Date:   Mon Nov 9 08:45:22 2026 +0100
+
+    Merge pull request #5340 from diegovm17/main
+    
+    hello.md
+
+[33mcommit 2ab0c2182e8162237d9330ef015f33ef8bec3434[m
+Merge: 61bd4adf 94a19daf
+Author: Brais Moure <mouredev@gmail.com>
+Date:   Mon Nov 9 08:44:51 2026 +0100
+
+    Merge branch 'main' into main
+
+[33mcommit 94a19daf79dc7f144a2a693176e68e9ece007120[m
+Merge: 574f41db 0877d7fc
+Author: Brais Moure <mouredev@gmail.com>
+Date:   Mon Nov 9 06:00:34 2026 +0100
+
+    Merge pull request #5341 from Joel-OM29/main
+    
+    Agregue Joel-OM29
+
+[33mcommit 0877d7fc858e5423f2c9a7b60dd1c980614132d3[m
+Author: Joel OM <joropeza2003@gmail.com>
+Date:   Sun Nov 8 18:43:23 2026 -0600
+
+    Agregue Joel-OM29
+
+[33mcommit 61bd4adf6eb0b567505504130ad3960ff3497dc4[m
+Merge: 0d76f2a6 574f41db
+Author: diegovm17 <martinezventuradiego@gmail.com>
+Date:   Wed Nov 4 23:41:14 2026 -0600
+
+    Merge branch 'main' into main
+
+[33mcommit 574f41db3760044a03bdd85c61d92640904384b5[m
+Merge: 84439f0c 1440e3ef
+Author: Brais Moure <mouredev@gmail.com>
+Date:   Thu Nov 5 06:00:19 2026 +0100
+
+    Merge pull request #5339 from richy83/main
+    
+    Usuario richy83 nueva alta
+
+[33mcommit 0d76f2a653c7fcbfe8a0c8ede4cdabed20b1d751[m
+Author: diegomv <martinezventuradiego@gmail.com>
+Date:   Wed Nov 4 22:54:32 2026 -0600
+
+    hello.md
+
+[33mcommit 1440e3efbbb379046ccbd2bf1ab75eee3d1665a2[m
+Author: richy83 <ricardocalderongonzalez@gmail.com>
+Date:   Wed Nov 4 22:11:20 2026 +0100
+
+    Usuario richy83 nueva alta
+
+[33mcommit 84439f0c5f3662caae743a204ea759f77b1bd230[m
+Author: mouredev <mouredev@gmail.com>
+Date:   Wed Nov 4 06:01:00 2026 +0100
+
+    Merge PR #5334 manual: RM-dev28
+
+[33mcommit 6a4983c6c0e586ff26dbe11a48351e27fe426a57[m
+Author: mouredev <mouredev@gmail.com>
+Date:   Wed Nov 4 06:00:54 2026 +0100
+
+    Merge PR #5335 manual: mrs666
+
+[33mcommit b834b266bc1ba1116bb34e5c75778af1a2d71e87[m
+Author: mouredev <mouredev@gmail.com>
+Date:   Wed Nov 4 06:00:48 2026 +0100
+
+    Merge PR #5337 manual: KC-programer
+
+[33mcommit 6a601d6095e2221ef91c13e2b1fd0a168826da17[m
+Merge: 9a0f82db 2b8d9e2d
+Author: Brais Moure <mouredev@gmail.com>
+Date:   Wed Nov 4 06:00:22 2026 +0100
+
+    Merge pull request #5338 from ManoloDev200/main
+    
+    Se añade un fichero para que salude la comunidad
+
+[33mcommit 2b8d9e2da46003e7c978d496fb314a3937b9d349[m
+Author: Manolodev <manel05232@gmail.com>
+Date:   Tue Nov 3 19:46:58 2026 -0800
+
+    Se añade un fichero para que salude la comunidad
+
+[33mcommit 9a0f82dbb5bf66234c3dd41771f199ad07877a21[m
+Merge: 69593d9b 392c5cd2
+Author: Brais Moure <mouredev@gmail.com>
+Date:   Tue Nov 3 06:40:24 2026 +0100
+
+    Merge pull request #5333 from marlonfernandezpaz80-cpu/main
+    
+    LordMarlon1 ha agregado su nombre
+
+[33mcommit 392c5cd29052ef4d621190881f94b1219ae565a9[m
+Merge: b83fc658 69593d9b
+Author: Brais Moure <mouredev@gmail.com>
+Date:   Tue Nov 3 06:40:05 2026 +0100
+
+    Merge branch 'main' into main
+
+[33mcommit 69593d9be7a67094669d5b51f128de927c5ec870[m
+Merge: cd0e8b43 941833aa
+Author: Brais Moure <mouredev@gmail.com>
+Date:   Tue Nov 3 06:00:23 2026 +0100
+
+    Merge pull request #5332 from Joeyy99/main
+    
+    Agregue mi usuario al md
+
+[33mcommit b83fc658c59273f901cbcf44154ae51afc64bfc5[m
+Author: marlonfernandezpaz80-cpu <marlonfernandezpaz80@gmail.com>
+Date:   Mon Nov 2 22:20:36 2026 -0300
+
+    LordMarlon1 ha agregado su nombre
+
+[33mcommit 941833aa670fefb1444fef445fbd6065c83caabd[m
+Author: Joel <tapajoel78@gmail.com>
+Date:   Mon Nov 2 18:44:46 2026 -0500
+
+    Agregue mi usuario al md
+
+[33mcommit cd0e8b436aa609896f0268ae3adbe45ec409e6d8[m
+Merge: ecd18fe3 450c4bbf
+Author: Brais Moure <mouredev@gmail.com>
+Date:   Mon Nov 2 06:00:15 2026 +0100
+
+    Merge pull request #5330 from julimun-sys/main
+    
+    Se añade un fichero para que salude a la comunidad
+
+[33mcommit 450c4bbf7c3efbe687ec49ce9099f72dfa6f5de2[m
+Author: Julian Pinto <ismapinto2007@gmail.com>
+Date:   Sun Nov 1 10:51:20 2026 -0500
+
+    Se añade un fichero para que salude a la comunidad
+
+[33mcommit ecd18fe3ec15fcb7db80a01c3f1212b6ed797509[m
+Merge: d406eecf 59753abf
+Author: Brais Moure <mouredev@gmail.com>
+Date:   Sun Nov 1 06:00:16 2026 +0100
+
+    Merge pull request #5328 from nimzay1106/main
+    
+    20261031 - PR Commit 59753abf491983a8d9344dad0c163f2f077a9d56
+
+[33mcommit 59753abf491983a8d9344dad0c163f2f077a9d56[m
+Author: AlejandraRodriguez11 <nimzay1106@gmail.com>
+Date:   Sat Oct 31 21:43:19 2026 -0500
+
+    20261031 - Realizando Ejercicio práctico de Git y GitHub del curso de mouredev-pro
+
+[33mcommit d406eecf5e5d3f5f128be6b466ee660b9e4aee2c[m
+Merge: 99ce3b7d d2384fa7
+Author: Brais Moure <mouredev@gmail.com>
+Date:   Sat Oct 31 08:23:25 2026 +0100
+
+    Merge pull request #5327 from Garchomp-03/main
+    
+    Garchomp-03
+
+[33mcommit d2384fa7b678a43f99914e8f576208d0772b4fd4[m
+Author: Neo <bocanegraarath64@gmail.com>
+Date:   Sat Oct 31 01:15:57 2026 -0500
+
+    Garchomp-03
+
+[33mcommit 99ce3b7d3889ef80c1f2ba7b9ec061c79c8ea552[m
+Merge: 11b22f44 dbe69ee0
+Author: Brais Moure <mouredev@gmail.com>
+Date:   Sat Oct 31 06:00:17 2026 +0100
+
+    Merge pull request #5326 from AleAbalos/main
+    
+    Add AleAbalos to the list (2026-10)
+
+[33mcommit dbe69ee0b70acdfe01e8ee5fd0d2f854ad85c0dd[m
+Author: Ale Abalos <97998520+AleAbalos@users.noreply.github.com>
+Date:   Fri Oct 30 09:09:43 2026 -0300
+
+    Add AleAbalos to the list (2026-10)
+
+[33mcommit 11b22f44bd9395119eec96941f02267964f4e9e8[m
+Merge: 4dc3b64f ca35ab1b
+Author: Brais Moure <mouredev@gmail.com>
+Date:   Fri Oct 30 06:00:21 2026 +0100
+
+    Merge pull request #5325 from Santigp026/main
+    
+    Añadido mi usuario
+
+[33mcommit ca35ab1b691c2cec8af491bc110e10dabed37a6e[m
+Author: Santigp26 <santiagogp026@gmail.com>
+Date:   Thu Oct 29 10:11:26 2026 +0100
+
+    Añadido mi usuario
+
+[33mcommit 4dc3b64fc7765760e20790f16b5a55fb16fe50b3[m
+Merge: ee119319 65121523
+Author: Brais Moure <mouredev@gmail.com>
+Date:   Thu Oct 29 09:35:51 2026 +0100
+
+    Merge pull request #5320 from Ant0niDev/main
+    
+    Se ańade un fichero para que salude la comunidad
+
+[33mcommit ee119319a5a783889ccf85ed277d35621e5a3839[m
+Merge: f51b2722 9d93f4a9
+Author: Brais Moure <mouredev@gmail.com>
+Date:   Thu Oct 29 09:35:17 2026 +0100
+
+    Merge pull request #5323 from NEsSa-08/main
+    
+    arreglando mi nombre
+
+[33mcommit 9d93f4a99029ef1db8a80315706f0d1b78fc149b[m
+Merge: ca34bc2a f51b2722
+Author: Brais Moure <mouredev@gmail.com>
+Date:   Thu Oct 29 09:35:00 2026 +0100
+
+    Merge branch 'main' into main
+
+[33mcommit f51b27225f8186df0ebd6fe262c468ad3a728470[m
+Merge: 2af3b2d3 293a212c
+Author: Brais Moure <mouredev@gmail.com>
+Date:   Thu Oct 29 09:34:17 2026 +0100
+
+    Merge pull request #5322 from antoniopaezgomez-prog/main
+    
+    Nuevo participante en GitHub
+
+[33mcommit 293a212c7fde3b430248487998d8543008b0290c[m
+Merge: 72e1a3d7 2af3b2d3
+Author: Brais Moure <mouredev@gmail.com>
+Date:   Thu Oct 29 09:33:54 2026 +0100
+
+    Merge branch 'main' into main
+
+[33mcommit 2af3b2d3fd2dc7cff003cb93f7fc1e08bc8341ab[m
+Merge: 42abb523 d616108e
+Author: Brais Moure <mouredev@gmail.com>
+Date:   Thu Oct 29 08:53:19 2026 +0100
+
+    Merge pull request #5324 from Junefes/main
+    
+    iD mio en hello.md
+
+[33mcommit d616108e022d2447d94eb49805a713f78bf21497[m
+Author: Junefes <fabriziosaavedramoreno855@gmail.com>
+Date:   Thu Oct 29 01:30:14 2026 -0500
+
+    iD mio en hello.md
+
+[33mcommit ca34bc2a4f697f6b367c847bd7d3e6d9d7134cde[m
+Author: Nessa <karvane178@hotmail.com>
+Date:   Wed Oct 28 18:03:57 2026 -0600
+
+    arreglando mi nombre
+
+[33mcommit 72e1a3d7ba194daa943d35728aa72830b4b4f558[m
+Author: Antonio <antoniopaezgomez@gmail.com>
+Date:   Wed Oct 28 11:49:03 2026 +0100
+
+    Nuevo participante sin error
+
+[33mcommit 7f74ac988308eaa9ce68b44bc871e77a2fbbc9cd[m
+Author: Antonio <antoniopaezgomez@gmail.com>
+Date:   Wed Oct 28 11:41:07 2026 +0100
+
+    Nuevo participante
+
+[33mcommit 42abb523d24807c372fba782b04dcb94016003c0[m
+Merge: 47f12ffb 13eea506
+Author: Brais Moure <mouredev@gmail.com>
+Date:   Wed Oct 28 06:00:17 2026 +0100
+
+    Merge pull request #5321 from camilojosecuadrado/main
+    
+    Updating hello.md
+
+[33mcommit 13eea5067247637109c53fb9346f8f712339a164[m
+Author: Camilo Cuadrado <110683463+camilojosecuadrado@users.noreply.github.com>
+Date:   Tue Oct 27 15:12:25 2026 -0500
+
+    Update hello.md
+
+[33mcommit 651215237739ad43323040d243f66e0ba6102223[m
+Merge: 7f3807f0 47f12ffb
+Author: Antoni Luna <168608285+Ant0niDev@users.noreply.github.com>
+Date:   Tue Oct 27 09:06:20 2026 -0400
+
+    Merge branch 'main' into main
+
+[33mcommit 47f12ffba5b403df9793f5934d3126a79dbd65a3[m
+Merge: c59745bf 5d55df33
+Author: Brais Moure <mouredev@gmail.com>
+Date:   Mon Oct 26 06:00:16 2026 +0100
+
+    Merge pull request #5319 from DuarYee/main
+    
+    Gracias por el curso, saludos desde México.
+
+[33mcommit 5d55df331eae0c815fb7dd8a92158b62d5d2603d[m
+Author: DuarYee <160692882+DuarYee@users.noreply.github.com>
+Date:   Sun Oct 25 22:16:11 2026 -0600
+
+    Gracias por el curso, saludos desde México.
+
+[33mcommit c59745bfba38242b49eaeea6ad57c61546cedc83[m
+Author: mouredev <mouredev@gmail.com>
+Date:   Sun Oct 25 06:00:41 2026 +0100
+
+    Merge PR #5317 manual: Ant0niDev
+
+[33mcommit 031f7e9898529d6fcdb996c35c33f5a05bc52722[m
+Merge: 10309320 bafba50f
+Author: Brais Moure <mouredev@gmail.com>
+Date:   Sun Oct 25 06:00:25 2026 +0100
+
+    Merge pull request #5318 from dlampatricio/main
+    
+    Update hello.md
+
+[33mcommit bafba50feae9655d35b2ee03ee904d09f16dd5fb[m
+Author: David Lam <dlampatricio@gmail.com>
+Date:   Sat Oct 24 17:56:45 2026 -0400
+
+    Update hello.md
+
+[33mcommit 7f3807f0caef30323e73d3ee712ea6f69332f597[m
+Author: TonyDev <168608285+Ant0niDev@users.noreply.github.com>
+Date:   Sat Oct 24 15:25:24 2026 -0400
+
+    Se ańade un fichero para que salude la comunidad
+
+[33mcommit 103093203ceff26a05c629bc4798153000224a1e[m
+Merge: 6fdd7482 398ff115
+Author: Brais Moure <mouredev@gmail.com>
+Date:   Sat Oct 24 06:00:17 2026 +0200
+
+    Merge pull request #5316 from Gael-Autom/main
+    
+    My username in hello.md
+
+[33mcommit 398ff1158eaab86cc0e1adf698978e1f799b118e[m
+Author: GaelGarcia <gaelramigar123@gmail.com>
+Date:   Fri Oct 23 14:34:28 2026 -0700
+
+    My username in hello.md
+
+[33mcommit 6fdd7482f6caea635878675deb0a6fd01b15d2cf[m
+Merge: cab64f33 04b33b86
+Author: Brais Moure <mouredev@gmail.com>
+Date:   Fri Oct 23 12:51:26 2026 +0200
+
+    Merge pull request #5315 from sergioocg/main
+    
+    new user added
+
+[33mcommit 04b33b86030b71b9d6ce8a143b37fb69d0c7def0[m
+Author: Sergio Ocaña García <151764071+sergioocana-vgs@users.noreply.github.com>
+Date:   Fri Oct 23 10:29:09 2026 +0200
+
+    new user added
+
+[33mcommit cab64f33ed89359c3e50cd7d384adb188829500b[m
+Author: mouredev <mouredev@gmail.com>
+Date:   Fri Oct 23 06:01:08 2026 +0200
+
+    Merge PR #5312 manual: ManuelTP19
+
+[33mcommit ee4745d8f2971b090244fbf76ca0b74944ab21d8[m
+Author: mouredev <mouredev@gmail.com>
+Date:   Fri Oct 23 06:00:45 2026 +0200
+
+    Merge PR #5313 manual: Chepe-sp
+
+[33mcommit be95ae527f1dda6767ac6fa97e87dac8271a24ad[m
+Merge: b440b739 33da69db
+Author: Brais Moure <mouredev@gmail.com>
+Date:   Fri Oct 23 06:00:20 2026 +0200
+
+    Merge pull request #5314 from PAULX885/main
+    
+    Mi nombre uno mas
+
+[33mcommit 33da69db104baa44067793f869dc6b2fbf1da580[m
+Author: Here I am <espaulxmedina@gmail.com>
+Date:   Thu Oct 22 21:18:58 2026 -0400
+
+    Mi nombre uno 
